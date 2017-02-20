@@ -1,0 +1,9 @@
+sudo: required
+dist: trusty
+language: java
+before_install:
+  - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
+script:
+    - sh ci.sh
+notifications:
+    email: false
