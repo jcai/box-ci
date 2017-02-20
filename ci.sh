@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-mkdir target
+mkdir -p target
 cd target
 git clone --depth 1 $GIT_URL zvirt-box
 git clone --depth 1 --branch 6.1-Unstable https://github.com/Thinstation/thinstation.git thinstation
