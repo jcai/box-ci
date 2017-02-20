@@ -13,9 +13,9 @@
   <includeBaseDirectory>true</includeBaseDirectory>
   <fileSets>
     <fileSet>
-      <directory>target</directory>
+      <directory>target/thinstation/build/boot-images/iso</directory>
       <includes>
-        <include>thinstation/build/boot-images/iso/thinstation.iso</include>
+        <include>thinstation.iso</include>
       </includes>
       <outputDirectory>iso</outputDirectory>
     </fileSet>
