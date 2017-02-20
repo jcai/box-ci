@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 mkdir target
 cd target
 git clone --depth 1 https://bitbucket.org/zvirt/zvirt-box.git zvirt-box
