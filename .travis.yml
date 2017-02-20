@@ -2,7 +2,12 @@ sudo: required
 dist: trusty
 language: java
 before_install:
-  - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
+  - echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+  - echo -e "$SSH_KEY" > ~/.ssh/id_rsa.pub
+  - echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+  - chmod 600 ~/.ssh/id_rsa*
+  - eval `ssh-agent -s`
+  - ssh-add ~/.ssh/id_rsa
 script:
     - sh ci.sh
 notifications:
