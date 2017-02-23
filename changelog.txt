@@ -1,2 +1,2 @@
-Merge branch 'develop' of https://bitbucket.org/zvirt/zvirt-box into develop
+添加native message启动remote-viewer，暂时还不能启动是加载extension
  
