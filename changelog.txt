@@ -1,2 +1,2 @@
-add ci shell
+add ts-6.1
  
