@@ -1,2 +1,2 @@
-add ts-6.1
+添加firefox插件
  
