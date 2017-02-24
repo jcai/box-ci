@@ -1,2 +1,2 @@
-添加native message启动remote-viewer，暂时还不能启动是加载extension
+添加firefox插件
  
