@@ -1,2 +1,2 @@
-add ts-6.1
+移动firefox的插件源码到开发目录下,build目录应该放生成好的xpi文件
  
