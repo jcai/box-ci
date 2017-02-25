@@ -1,2 +1,2 @@
-删除没用的文件夹
+delete unused files
  
