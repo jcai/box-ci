@@ -1,2 +1,2 @@
-nativemessage => zvirt
+更新zvirt的启动初始页面,升级插件
  
