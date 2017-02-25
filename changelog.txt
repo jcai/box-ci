@@ -1,2 +1,2 @@
-add firefox as dependency
+精简nativemessage
  
