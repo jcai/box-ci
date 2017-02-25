@@ -1,2 +1,2 @@
-添加firefox全屏插件
+nativemessage => zvirt
  
