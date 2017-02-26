@@ -1,2 +1,2 @@
-完善页面功能
+Add information notification for zvirt extension
  
