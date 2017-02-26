@@ -1,2 +1,2 @@
-Add information notification for zvirt extension
+remove notification
  
