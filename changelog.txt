@@ -1,2 +1,2 @@
-尝试加入ip地址类型
+Add options page
  
