@@ -1,2 +1,2 @@
-查询获取到的ip类型
+upgrade xpi to 1.0.4
  
