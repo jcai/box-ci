@@ -1,2 +1,2 @@
-upgrade xpi to 1.0.4
+发布1.0.5的plugin
  
