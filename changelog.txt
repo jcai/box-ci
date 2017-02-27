@@ -1,2 +1,2 @@
-publish 1.0.6
+upgrade to 1.0.7
  
