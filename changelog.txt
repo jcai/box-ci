@@ -1,2 +1,2 @@
-modify ipconfig
+尝试加入ip地址类型
  
