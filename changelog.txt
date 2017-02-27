@@ -1,2 +1,2 @@
-Add options page
+查询获取到的ip类型
  
