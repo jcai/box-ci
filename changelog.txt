@@ -1,2 +1,2 @@
-发布1.0.5的plugin
+optimize some code
  
