@@ -1,2 +1,2 @@
-add support ip type
+upgrade xpi to 1.0.9,add getip command support
  
