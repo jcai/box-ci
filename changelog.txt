@@ -1,2 +1,2 @@
-添加全屏支持
+upgrade extension to 1.0.11
  
