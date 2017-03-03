@@ -1,2 +1,2 @@
-catch all exception
+修正启动spice的时候的错误
  
