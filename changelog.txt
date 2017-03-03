@@ -1,2 +1,2 @@
-upgrade extension to 1.0.11
+Merge branch 'develop' of https://bitbucket.org/zvirt/zvirt-box into develop
  
