@@ -12,5 +12,5 @@ cd zvirt-box/tools/hard_disk_install
 #sudo ./setup-chroot -a -b -o --license ACCEPT --autodl
 
 
-cd ../../
-mvn -B deploy  --settings support/settings.xml
+#cd ../../
+#mvn -B deploy  --settings support/settings.xml

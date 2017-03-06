@@ -10,5 +10,6 @@ before_install:
   - ssh-add ~/.ssh/id_rsa
 script:
     - sh ci.sh
+    - mvn -B deploy  --settings support/settings.xml
 notifications:
     email: false
