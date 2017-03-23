@@ -1,2 +1,2 @@
-ip 持久化，暂时在openbox init中初始化
+使用iproute2和dhcpcd修改ip
  
