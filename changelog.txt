@@ -1,2 +1,2 @@
-Merge branch 'develop' of https://bitbucket.org/zvirt/zvirt-box into develop
+ip 持久化，暂时在openbox init中初始化
  
