@@ -1,2 +1,2 @@
-增加mock使用的python
+升级firefox的plugin到1.0.12
  
