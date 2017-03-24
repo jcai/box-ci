@@ -1,2 +1,2 @@
-Merge branch 'develop' of https://bitbucket.org/zvirt/zvirt-box into develop
+修复dhcp设置ip的功能，以及修改网络初始化的位置
  
