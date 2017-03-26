@@ -1,2 +1,2 @@
-修复dhcp设置ip的功能，以及修改网络初始化的位置
+添加启动xterm热键， windows+shift+v
  
