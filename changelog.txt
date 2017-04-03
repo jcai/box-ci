@@ -1,2 +1,2 @@
-add zvirt mock
+upgrade zvirt firefox plugin
  
