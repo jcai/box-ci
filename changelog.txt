@@ -1,2 +1,2 @@
-添加启动xterm热键， windows+shift+v
+init box for ubuntu 1610
  
