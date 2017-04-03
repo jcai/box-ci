@@ -1,2 +1,2 @@
-upgrade js method
+add lazy load ZvirtBox object
  
