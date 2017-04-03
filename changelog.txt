@@ -1,2 +1,2 @@
-init box for ubuntu 1610
+add configuration
  
