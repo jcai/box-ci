@@ -1,2 +1,2 @@
-add lazy load ZvirtBox object
+add zvirt mock
  
