@@ -1,2 +1,2 @@
-use brunch to build firefox plugin
+升级firefox的plugin
  
