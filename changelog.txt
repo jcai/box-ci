@@ -1,2 +1,2 @@
-add starter directory
+ignore starter
  
