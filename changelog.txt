@@ -1,2 +1,2 @@
-add firefox plugin
+use brunch to build firefox plugin
  
