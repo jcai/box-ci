@@ -1,2 +1,2 @@
-升级firefox的plugin
+delete some unused files
  
